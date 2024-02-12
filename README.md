@@ -13,4 +13,4 @@ Environment variables
 * `BAR_BOTTOM`: If set, assume the bar's on the bottom part of the screen. Else assume it's on the top part
 * `BAR_HEIGHT`: Height of the bar
 
-See also: <https://github.com/jensbrks/etc>
+See also: <https://github.com/jenbroek/etc>
